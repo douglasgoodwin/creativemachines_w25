@@ -32,7 +32,7 @@ In such a picture, that spark has, as it were, burned through the person in the 
 
 Photography, however, with its time lapses, enlargements, etc. makes such knowledge possible. Through these methods one first learns of this optical unconscious, just as one learns of the drives of the unconscious through psychoanalysis. Concern with structure, cell forms, the improvement of medicine through these techniques: the camera is ultimately more closely related to these than to the moody landscape or the soulful portrait. At the same time, however, photography opens up in this material the physiognomic aspects of the world of images, which reside in the smallest details, clear and yet hidden enough to have found shelter in daydreams. Now, however, large and formulatable as they have grown, they are able to establish the difference between technology and magic as a thoroughly historical variable. Thus Blossfeldt,[^2] with his astonishing photographs of plants, brought out the forms of ancient columns in horsetails, the bishop’s staff in a bunch of flowers, totem poles in chestnut and acorn sprouts enlarged ten times, gothic tracery in teasel.
 
-![](/blossfelt.jpg)
+![](blossfelt.jpg)
 
 Therefore, too, Hill’s models are certainly not far from the truth when they admit that to them “the phenomenon of photography” was still “a great secret experience,” even if what that meant was only the consciousness of standing “before an apparatus which in almost no time could produce an image of the visible world that seemed as lifelike and truthful as nature itself.” It has been said that Hill’s camera maintained a discreet reserve. But his models, for their part, are no less reserved; they maintain a certain shyness in the face of the apparatus. The motto of a later photographer, from the period of photography’s bloom—”Never look at the camera”—could have been derived from their stance. But by that was not meant the same “looking at you” of animals, men, or babies all crowded together, which involves the customer in such an unsavory manner and to which nothing can better be contrasted than the sense with which old Dauthendey spoke of the daguerreotype: “At first one does not trust himself,” he reported, “to look for very long at the first pictures he has made. One shies away from the sharpness of these people, feels that the puny little faces of the people in the pictures can see him, so staggering is the effect on everyone of the unaccustomed clarity and the fidelity to nature of the first daguerreotypes.”
 
@@ -108,7 +108,7 @@ One thing, however, was not grasped either by Wiertz or by Baudelaire, and that 
 
 Not for nothing were pictures of Atget compared with those of the scene of a crime. But is not every spot of our cities the scene of a crime? every passerby a perpetrator? Does not the photographer—descendant of augurers and haruspices—uncover guilt in his pictures? It has been said that “not he who is ignorant of writing but ignorant of photography will be the illiterate of the future.” But isn’t a photographer who can’t read his own pictures worth less than an illiterate? Will not captions become the essential component of pictures? Those are the questions in which the gap of 90 years that separates today from the age of the daguerreotype discharges its historical tension. It is in the light of these sparks that the first photographs emerge so beautifully, so unapproachably from the darkness of our grandfathers’ days.
 
-———————-
+---
 
 NOTES
 
@@ -117,7 +117,7 @@ NOTES
 [^3]: Atget, *Photographs*. Published by Camille Recht, Paris and Leipzig, 1931.
 [^4]: August Sander, *Das Antlitz der Zeit*, Berlin, 1930.
 
-—————-
+---
 
 Translator’s Notes
 
