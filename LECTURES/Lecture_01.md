@@ -16,7 +16,7 @@
 - Fletcher Jones Scholar of Computation at Scripps
 - Former Python programmer at LA Metro (10 years)
 - Active video art practice incorporating generative AI
-- Portfolio available at karin.com
+- Portfolio available at cairn.com
 
 ---
 
@@ -70,7 +70,8 @@ Four main types of activities:
 
 1. Lecture (Current)
 2. Debate: Digital vs. Analog Art Making
-3. Workshop Exercise:
+3. Janelle Shane, https://www.youtube.com/watch?v=hpOz6-Wlz_4
+4. Workshop Exercise:
    - Style translation practice
    - Working with different writing styles
    - Pair work on concept isolation

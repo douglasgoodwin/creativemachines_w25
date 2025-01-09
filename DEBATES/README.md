@@ -1,7 +1,5 @@
 ### Process
 
-
-
 #### Constructor Speech (3 mins). TEAM 1, TEAM 2
 
 - State position clearly
@@ -14,17 +12,35 @@
 - Listen carefully to responses
 - Look for weaknesses in opponent's position
 
+PAUSE 2 minutes
+
 #### Rebuttal (2 mins). TEAM 2, TEAM 1
 
 - Address opponent's main points
 - Reinforce your key arguments
 - Use cross-examination revelations
 
+PAUSE 2 minutes
+
 #### Final Focus (2 mins). TEAM 2, TEAM 1
 
 - Summarize key points
 - Emphasize strongest evidence
 - Connect back to resolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Evaluation Criteria
 
