@@ -1,6 +1,6 @@
 ## paragraphs to analyze
 
-Pick one of these quotes and work with another student to discuss your textual analysis.
+Pick one of these paragraphs for analysis. Share your work with another student. Discuss strategies for doing textual analysis with an LLM (ChatGPT/Gemini/ClaudeAI).
 
 
 
